@@ -5018,7 +5018,6 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "ZXingObjC-iOS";
 				SKIP_INSTALL = YES;
-				STRIP_STYLE = "non-global";
 			};
 			name = Distribution;
 		};
@@ -5171,7 +5170,6 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "ZXingObjC-iOS";
 				SKIP_INSTALL = YES;
-				STRIP_STYLE = "non-global";
 			};
 			name = Debug;
 		};
@@ -5187,7 +5185,6 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "ZXingObjC-iOS";
 				SKIP_INSTALL = YES;
-				STRIP_STYLE = "non-global";
 			};
 			name = Release;
 		};
